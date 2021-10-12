@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @heyeyjos
-- 👀 I’m interested in data science
+- 👀 I’m interested in data science n data analyst
 - 🌱 I’m currently learning python, R, SQL
 - 💞️ I’m looking to collaborate on those sources (python, R, SQL)
 - 📫 How to reach me just look up my instagram @heyeyjos
